@@ -6,8 +6,8 @@
 
  <div>
    <a href="https://github.com/BlackBoltEdu">
-   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BlackBoltEdu&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoltEdu&layout=compact&langs_compact=7&theme=highcontrast"/>
+   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BlackBoltEdu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBoltEdu&layout=compact&langs_compact=7&theme=tokyonight"/>
  </div>
 
 <a href="https://github.com/BlackBoltEdu">
