@@ -22,4 +22,5 @@
  
  
 ![snake gif](https://github.com/BlackBoltEdu/BlackBoltEdu/blob/output/github-contribution-grid-snake.svg)
+ 
 ##
