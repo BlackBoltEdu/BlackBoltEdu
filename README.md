@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jefferson Eduardo, Vulgo: BlackBolt 👋
 
-- 📚 Estudando HTML, CSS, JavaScript e PHP
+- 📚 Estudando HTML5, CSS3 e JavaScript
  
 ##
 <ion-icon name="add-circle-outline"></ion-icon>
